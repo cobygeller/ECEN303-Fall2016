@@ -14,6 +14,7 @@ Undergraduate Students
 * Samuel Costa, [samjcosta80](https://github/samjcosta80)
 * Samuel Todd Flanagan, [toddflan](https://github/toddflan)
 * Lucky Jay Barut, [LJBar](https://github.com/LJBar)
+* Jacob Geller, [cobygeller](https://github.com/cobygeller)
 
 Faculty Members
 ---------------
